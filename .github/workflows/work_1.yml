@@ -6,6 +6,6 @@ jobs:
     steps:
     - name: Print Something
       run: echo "Hola Pitaya!"
-        echo "Impresion 1"
-        echo "Impresion 2"
-        echo "Impresion 3"
+        \n"Impresion 1"
+        \n"Impresion 2"
+        \n"Impresion 3"
